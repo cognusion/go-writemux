@@ -1,6 +1,6 @@
 module github.com/cognusion/go-writemux
 
-go 1.22.1
+go 1.22
 
 require (
 	github.com/cognusion/go-recyclable v1.0.0
