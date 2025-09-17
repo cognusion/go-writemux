@@ -3,7 +3,7 @@ module github.com/cognusion/go-writemux
 go 1.22
 
 require (
-	github.com/cognusion/go-recyclable v1.0.0
+	github.com/cognusion/go-recyclable v1.2.0
 	github.com/cognusion/go-sequence v1.1.0
 	github.com/smartystreets/goconvey v1.8.1
 )

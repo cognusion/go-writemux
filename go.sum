@@ -1,5 +1,5 @@
-github.com/cognusion/go-recyclable v1.0.0 h1:lC8zPfPj0PWJ2t5XnAOgDPrSwfjW+rETi0z1SVNOkDw=
-github.com/cognusion/go-recyclable v1.0.0/go.mod h1:VXkJBUvCxDX2KTR+IcW5wPBtGGrWB/7kTSOCxiGzE50=
+github.com/cognusion/go-recyclable v1.2.0 h1:Vqge4egZKOgWLZQUeIiWOjEwXzCaoarPNFv/EFidrBM=
+github.com/cognusion/go-recyclable v1.2.0/go.mod h1:UPIqjekn6iTRbI8dj3SGpictG8mL1zoH0r+91OulOnw=
 github.com/cognusion/go-sequence v1.1.0 h1:MkYt6/iM4WaQh1WiuE1dnknwQEFdU0KBUbDf8ch6XPo=
 github.com/cognusion/go-sequence v1.1.0/go.mod h1:m1eTjD2rGredOjvHMTklg8Unb7mz5OMlFPyOG9dgLws=
 github.com/gopherjs/gopherjs v1.17.2 h1:fQnZVsXk8uxXIStYb0N4bGk7jeyTalG/wsZjQ25dO0g=
