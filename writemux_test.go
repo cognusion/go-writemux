@@ -5,7 +5,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/cognusion/go-recyclable"
+	"github.com/cognusion/go-recyclable/v2"
 	. "github.com/smartystreets/goconvey/convey"
 )
 

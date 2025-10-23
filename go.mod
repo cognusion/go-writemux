@@ -1,9 +1,9 @@
 module github.com/cognusion/go-writemux
 
-go 1.22
+go 1.24
 
 require (
-	github.com/cognusion/go-recyclable v1.2.0
+	github.com/cognusion/go-recyclable/v2 v2.0.0
 	github.com/cognusion/go-sequence v1.1.0
 	github.com/smartystreets/goconvey v1.8.1
 )

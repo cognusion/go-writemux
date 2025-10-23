@@ -1,7 +1,9 @@
-github.com/cognusion/go-recyclable v1.2.0 h1:Vqge4egZKOgWLZQUeIiWOjEwXzCaoarPNFv/EFidrBM=
-github.com/cognusion/go-recyclable v1.2.0/go.mod h1:UPIqjekn6iTRbI8dj3SGpictG8mL1zoH0r+91OulOnw=
+github.com/cognusion/go-recyclable/v2 v2.0.0 h1:K4yB89o7pFnvnqFLIm+phBZa1WRq2iAzdfYaIF0i+6A=
+github.com/cognusion/go-recyclable/v2 v2.0.0/go.mod h1:VgtbK2uRMx6W2lF1qmtQD9Fl5+ZaISiLNsqe8d14AYQ=
 github.com/cognusion/go-sequence v1.1.0 h1:MkYt6/iM4WaQh1WiuE1dnknwQEFdU0KBUbDf8ch6XPo=
 github.com/cognusion/go-sequence v1.1.0/go.mod h1:m1eTjD2rGredOjvHMTklg8Unb7mz5OMlFPyOG9dgLws=
+github.com/fortytw2/leaktest v1.3.0 h1:u8491cBMTQ8ft8aeV+adlcytMZylmA5nnwwkRZjI8vw=
+github.com/fortytw2/leaktest v1.3.0/go.mod h1:jDsjWgpAGjm2CA7WthBh/CdZYEPF31XHquHwclZch5g=
 github.com/gopherjs/gopherjs v1.17.2 h1:fQnZVsXk8uxXIStYb0N4bGk7jeyTalG/wsZjQ25dO0g=
 github.com/gopherjs/gopherjs v1.17.2/go.mod h1:pRRIvn/QzFLrKfvEz3qUuEhtE/zLCWfreZ6J5gM2i+k=
 github.com/jtolds/gls v4.20.0+incompatible h1:xdiiI2gbIgH/gLH7ADydsJ1uDOEzR8yvV7C0MuV77Wo=
